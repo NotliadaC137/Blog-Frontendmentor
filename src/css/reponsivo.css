@@ -1,0 +1,45 @@
+@media(max-width: 420px) {
+    .principal {
+        width: 327px;
+        height: 480px;
+        gap: 24px;
+    }
+
+    img {
+        width: 279px;
+        border-radius: 10px;
+    }
+
+    .conteiner {
+        width: 279px;
+        height: 173px;
+        gap: 12px;
+
+    }
+
+    span {
+        width: 75px;
+        height: 26px;
+    }
+
+    p {
+        width: 123px;
+        height: 18px;
+        font-size: 12px;
+    }
+    
+    .titulo {
+        font-size: 20px;
+    }
+
+    .descricao {
+        font-size: 14px;
+        width: 279px;
+        height: 63px;
+    }
+
+    .rodape p{
+        width: 85px;
+        height: 21px;
+    }
+}

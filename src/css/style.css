@@ -53,6 +53,7 @@ p {
     font-size: 24px;
     color: #111;
     transition: color 0.2s;
+    cursor: pointer;
 }
 
 .titulo:hover {
